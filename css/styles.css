@@ -3410,7 +3410,7 @@ td:last-child {
 .s-intro__content-pretitle {
     font-weight  : 600;
     margin-bottom: var(--vspace-0_125);
-    color        : var(--color-1);
+    color        : beige;
 }
 
 .s-intro__content-title {
